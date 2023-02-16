@@ -1,0 +1,24 @@
+body{background-color: #B0E0E6;}
+
+header ,footer{
+    background-color: #191970;
+    display: inline-block;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+img.welcome{
+    border-radius: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.me{
+    border-radius: 15px;
+}
+.about{
+    font-size: 10%;
+    font-family: roboto;
+}
